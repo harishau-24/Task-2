@@ -1,14 +1,10 @@
-Name: Ram Kumar M
+Name: Harish A U
 
 Company: CODTECH IT SOLUTIONS
 
-ID: CT08DS2475
-
 Domain: INTERNET OF THINGS
 
-Duration: 15 JUNE 2024 to 15 JULY 2024
-
-Mentor: MUZAMMIL AHMED
+Duration: 20 JUNE 2024 to 20 JULY 2024
 
 Smart Grid Energy Management System
 
